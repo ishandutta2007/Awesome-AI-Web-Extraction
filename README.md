@@ -88,6 +88,18 @@ Contributions are highly welcome! Please follow these guidelines:
 
 ---
 
+## ❤️ Support & Sponsorship
+
+Thank you so much for using and contributing to **Awesome AI Web Extraction**! 🌟
+
+If you find this project helpful, please consider showing your support:
+- ⭐️ **Star** this repository to help others discover it!
+- 🍴 **Fork** and contribute your favorite AI web scraping tools.
+- 📢 **Share** it with fellow AI engineers, RAG developers, and open-source enthusiasts.
+- ☕ **Buy Me a Coffee / Sponsor**: Consider supporting ongoing maintenance via the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
+
+---
+
 ## ⚠️ Disclaimer
 
 - This list is **community-curated** for research and educational purposes.
