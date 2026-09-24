@@ -58,13 +58,13 @@ Below is a comparison of commercial SaaS web extraction platforms sorted by **Co
 ## 🔓 Open-Source GitHub Projects
 
 <<<<<<< HEAD
-Top open-source web crawlers, AI scrapers, and extraction frameworks sorted by **GitHub Stars_Count (Descending)**:
+Top open-source web crawlers, AI scrapers, and extraction frameworks sorted by **GitHub_Stars_Count (Descending)**:
 
 | Project | Description | GitHub_Stars |
 =======
-Top open-source web crawlers, AI scrapers, and extraction frameworks sorted by **GitHub Star Count (Descending)**:
+Top open-source web crawlers, AI scrapers, and extraction frameworks sorted by **GitHub Stars_Count (Descending)**:
 
-| Project | Description | Stars |
+| Project | Description | GitHub_Stars |
 >>>>>>> ebaa0f55d1854f01ac3cedb5323c16930068ac2b
 | :--- | :--- | :--- |
 | 🎭 **[Playwright](https://github.com/microsoft/playwright)** | Headless browser automation library (Node.js, Python, Java) powering modern AI scraper rendering. | [![Playwright Stars](https://img.shields.io/github/stars/microsoft/playwright?style=social&color=white)](https://github.com/microsoft/playwright/stargazers) |
